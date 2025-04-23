@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: gitex-app
-        image: ghcr.io/saiyam1814/gitex-workshop/gitex-workshop-f79fa0363b1c51659713a33d69e513bd@sha256:e96e647aff2ea8d81eeadb6f461e7b4f4b7078e3aebb558efc69428e3e0195c1
+        image: ghcr.io/saiyam1814/gitex-workshop/gitex-workshop-f79fa0363b1c51659713a33d69e513bd@sha256:1a65982c2f0b267bf281caf599158967a0a95d015aaea0464e9fc70a0e7b6738
         ports:
         - containerPort: 8080
         resources:
